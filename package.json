@@ -1,0 +1,24 @@
+{
+  "name": "learn_hapi_js",
+  "version": "1.0.0",
+  "description": "Learning Hapi JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swat1508/Hapi_JS.git"
+  },
+  "author": "Swatantra Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swat1508/Hapi_JS/issues"
+  },
+  "homepage": "https://github.com/swat1508/Hapi_JS#readme",
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "inert": "^5.1.3"
+  }
+}
